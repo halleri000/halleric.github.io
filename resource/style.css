@@ -1,3 +1,4 @@
-body{
-    background-color: red;
+.navbar-item:hover{
+    background-color: #111;
 }
+
