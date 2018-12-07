@@ -19,6 +19,10 @@ h1{
     margin: 10px;
 }
 
+.workSummary{
+    background-color:red;
+    display:none;
+  }
 #works{
     position:relative;
     top:200px;
