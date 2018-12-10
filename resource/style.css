@@ -7,19 +7,25 @@ navbar-nav{
   margin:0;
   padding:0;
 }
+
 .navbar-item{
   text-align:center;
   width:25%;
   
 }
+
 .navbar-item:hover{
     color: #111;
 }
+
 navbar-brand{
   background-color:white;
 }
-h1{
+
+header{
+  background-color:black;
     text-align: center;
+    color:white;
 }
 
 #one{
@@ -28,27 +34,37 @@ h1{
     height:200px;
     border: 4px solid black;
 }
+
 .col-sm-3{
     background-color:silver;
     height:200px;
-    margin: 10px;
+
 }
+
 .workSummaryOne{
   background-color:red;
   display:none;
 }
+
 .workSummaryTwo{
   background-color:red;
   display:none;
 }
+
 .workSummaryThree{
   background-color:red;
   display:none;
 }
+
 #works{
     position:relative;
     top:400px;
 }
+
+.work{
+    height:300px;
+}
+
 footer{
   position:relative;
   bottom:-500px;
