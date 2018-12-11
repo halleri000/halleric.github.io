@@ -1,5 +1,10 @@
 $(document).ready(function () {
 
+     $('.one').hover(function () {
+          $('.intro').slideToggle();
+     })
+  
+
      $('.workOneImage').mouseenter(function () {
           $('.workOneImage').hide();
           $('.workSummaryOne').show();
