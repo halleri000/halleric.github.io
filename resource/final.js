@@ -39,6 +39,13 @@ $(document).ready(function () {
           $('.workSummaryThree').hide();
      })
 
+     $('.worksPage').click(function (){
+          $('.one').hide();
+          $('.intro').hide();
+          $('.works').hide();
+          $('.carousel').show();
+    
+     })
 
 
 
