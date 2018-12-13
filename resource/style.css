@@ -62,9 +62,9 @@ header{
   display:none;
 }
 
-#works{
+.works{
     position:relative;
-    top:400px;
+    top:300px;
 }
 
 .work{
@@ -76,3 +76,4 @@ footer{
   bottom:-500px;
   text-align:center;
 }
+
