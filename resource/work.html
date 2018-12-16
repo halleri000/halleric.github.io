@@ -15,7 +15,63 @@
 
 
 <body>
-   
+   <nav class="navbar navbar-expand-sm bg-dark navbar-dark sticky-top">
+        <a class="navbar-brand " href='#'> Hi </a>
+        <button class="navbar-toggler " type="button" data-toggle="collapse" data-target="#navOptions">
+            <span class="navbar-toggler-icon "></span> </button>
+        <diV class="collapse navbar-collapse " id="navOptions">
+            <ul class="navbar-nav col-sm-12">
+                <li class="navbar-item ">
+                    <a class="nav-link " href='index.html'> Home </a>
+                </li>
+                <li class="navbar-item ">
+                    <a class="nav-link " href='resource/aboutMe.html'> About Me </a>
+                </li>
+                <li class="navbar-item ">
+                    <a class="nav-link " href='resource/style.css' > Works </a>
+                </li>
+                <li class="navbar-item ">
+                    <a class="nav-link " href='resource/contactMe.html'> Contact Me </a>
+                </li>
+            </ul>
+        </diV>
+    </nav>
+    <section class="carousel">
+        <header id="workPageTitle">
+            <h1> Works </h1>
+        </header>
+        <div id="workCarousel" class="carousel slide" data-ride="carousel">
+
+            <ul class="carousel-indicators">
+                <li data-target="#workCarousel" data-slide-to="0" class="active"></li>
+                <li data-target="#workCarousel" data-slide-to="1"></li>
+                <li data-target="#workCarousel" data-slide-to="2"></li>
+            </ul>
+
+            <div class="carousel-inner">
+                <div class="carousel-item active">
+                    <p> Gunter </p><img src="resource/work1Image.png" alt='work1Image'>
+                    <a class='button btn btn-info' role='button' href='https://halleric.github.io/projects/Quidditch/quidditch.html'>
+                        Visit Site </a>
+                </div>
+                <div class="carousel-item">
+                    <p> pablo </p> <img src="esource/work2Image.png" alt='work2Image'>
+                    <a class='button btn btn-info' role='button' href=''> Visit Site </a>
+                </div>
+                <div class="carousel-item">
+                    <p> hello </p> <img src="esource/work3Image.png" alt='work3Image'>
+                    <a class='button btn btn-info' role='button' href=''> Visit Site </a>
+                </div>
+            </div>
+
+            <a class="carousel-control-prev" href="#workCarousel" data-slide="prev">
+                <span class="carousel-control-prev-icon"></span>
+            </a>
+            <a class="carousel-control-next" href="#workCarousel" data-slide="next">
+                <span class="carousel-control-next-icon"></span>
+            </a>
+        </div>
+    </section>
 </body>
 
 </html>
