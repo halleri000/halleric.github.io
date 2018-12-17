@@ -89,4 +89,8 @@ footer{
   bottom:-500px;
   text-align:center;
 }
-
+.aboutme{
+  display:block;
+  backgrond-color:red;
+  width:80%;
+  height:30%;
