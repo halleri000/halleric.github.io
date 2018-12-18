@@ -113,6 +113,13 @@ div .work{
     font-size:18px;
 }
 
+h3{
+  font-size:32px;
+  font-family:'Playfair Display', serif;
+text-align:center;
+  
+}
+
 footer{
     background-color:#13066d;
     position:relative;
