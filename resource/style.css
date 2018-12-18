@@ -57,11 +57,18 @@ h3{
   position:relative;
   top:200px;
 }
-workPageTitle{
+.workPageTitle{
 position:relative;
   top:100px;
 }
-
+.aboutMeTitle{
+position:relative;
+  top:100px;
+}
+.aboutme{
+position:relative;
+  top:200px;
+}
 .summary{
   text-align:center;
   color:blue;
