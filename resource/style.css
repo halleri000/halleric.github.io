@@ -22,10 +22,8 @@ background-color:#0b2e8d;
   position:relative;
     top:100px;
   margin:10px;
+  background-color:#13066d;
   height:100px;
-}
-header{
-backgorund-color:#13066d;
 }
 h1{
       text-align: center;
@@ -110,7 +108,7 @@ font-size:18px;
 }
 
 footer{
-   background-color:#13066d;
+backgorund-color:#13066d;
   position:relative;
   bottom:-500px;
   text-align:center;
