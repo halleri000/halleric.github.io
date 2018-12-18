@@ -3,37 +3,35 @@ body{
   background-color:	#060a47;
     margin:10px;
 }
-.navbar{
-background-color:#0b2e8d;
-}
+
 .navbar-item{
   text-align:center;
   width:25%;
-  
 }
 
 .navbar-item:hover{
     color: #111;
-  background-color:	#0e3ad6;
 }
 
 
 .one{
   position:relative;
-    top:100px;
+  top:100px;
   margin:10px;
   background-color:#13066d;
   height:100px;
 }
+
 h1{
-      text-align: center;
+    text-align: center;
     color:white;
     font-size:40px;
     font-family: 'Playfair Display', serif;
 }
+
 h3{
-  background-color:#13066d;
-      text-align: center;
+    background-color:#13066d;
+    text-align: center;
     color:white;
     font-size:30px;
     font-family: 'Playfair Display', serif;
@@ -42,95 +40,102 @@ h3{
 .col-sm-3{
     background-color:silver;
     height:200px;
-
 }
 .carousel-inner img{
-  height:100%;
-  width:100%;
-
-
+    height:100%;
+    width:100%;
 }
+
 .carousel{
-  position:relative;
-  top:200px;
+    position:relative;
+    top:200px;
 }
+
 .workPageTitle{
-position:relative;
-  top:100px;
+    position:relative;
+    top:100px;
 }
+
 .aboutMeTitle{
-position:relative;
-  top:100px;
+    position:relative;
+    top:100px;
 }
+
 .aboutme{
-position:relative;
-  top:200px;
+    position:relative;
+    top:200px;
 }
+
 .summary{
-  text-align:center;
-  color:blue;
-  font-size:25px;
+    text-align:center;
+    color:blue;
+    font-size:25px;
 }
+
 .workSummaryOne{
-  background-color:grey;
-  display:none;
+    background-color:grey;
+    display:none;
 }
 
 .workSummaryTwo{
-  background-color:grey;
-  display:none;
+    background-color:grey;
+    display:none;
 }
 
 .workSummaryThree{
-  background-color:grey;
-  display:none;
+    background-color:grey;
+    display:none;
 }
 
 .works{
-    position:relative;
-    top:300px;
+     position:relative;
+     top:300px;
 }
+
 .carousel-control-prev{
-height:20%;
+     height:20%;
 }
 
 .carousel-control-next{
-height:20%;
+     height:20%;
 }
+
 div .work{
-    height:300px;
+     height:300px;
 }
+
 .button{
-text-align:center;
-background-color:red;
-color:blue;
-font-size:18px;
+    text-align:center;
+    background-color:red;
+    color:blue;
+    font-size:18px;
 }
 
 footer{
-backgorund-color:#13066d;
-  position:relative;
-  bottom:-500px;
-  text-align:center;
+    backgorund-color:#13066d;
+    position:relative;
+    bottom:-500px;
+    text-align:center;
 }
 .aboutme{
-  font-size:20px;
-  display:block;
-  width:90%;
-  margin:5%;
-  height:300px;
-  border:3px solid black;
+    font-size:20px;
+    display:block;
+    width:90%;
+    margin:5%;
+    height:300px;
+    border:3px solid black;
 }
 .work img{
-  width:100%;
-  height:100%;
+    width:100%;
+    height:100%;
 }
+
 .resume1{
-  display:none
+    display:none
 }
 .resume2{
-  display:none;
+    display:none;
 }
 .resume3{
-  display:none;
+    display:none;
 }
