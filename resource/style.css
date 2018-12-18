@@ -14,9 +14,6 @@ body{
     color: #111;
 }
 
-navbar-brand{
-  background-color:white;
-}
 
 .one{
   position:relative:
@@ -27,13 +24,13 @@ navbar-brand{
 h1{
       text-align: center;
     color:white;
-    font-size:5px;
+    font-size:40px;
     font-family: 'Playfair Display', serif;
 }
 h3{
       text-align: center;
     color:white;
-    font-size:5px;
+    font-size:40px;
     font-family: 'Playfair Display', serif;
 }
 .intro{
