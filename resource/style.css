@@ -24,8 +24,10 @@ background-color:#0b2e8d;
   margin:10px;
   height:100px;
 }
+header{
+backgorund-color:#13066d;
+}
 h1{
-   background-color:#13066d;
       text-align: center;
     color:white;
     font-size:40px;
@@ -35,7 +37,7 @@ h3{
   background-color:#13066d;
       text-align: center;
     color:white;
-    font-size:40px;
+    font-size:30px;
     font-family: 'Playfair Display', serif;
 }
 
