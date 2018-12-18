@@ -1,18 +1,20 @@
 
 body{
   background-color:	#060a47;
-    margin:10px;
+  margin:10px;
 }
 
+.navbar{
+    background-color: gray;
+}
 .navbar-item{
   text-align:center;
   width:25%;
 }
 
 .navbar-item:hover{
-    color: #111;
+  color: #111;
 }
-
 
 .one{
   position:relative;
@@ -22,116 +24,108 @@ body{
 }
 
 h1{
-    text-align: center;
-    color:white;
-    font-size:40px;
-    font-family: 'Playfair Display', serif;
+  text-align: center;
+  color:white;
+  font-size:40px;
+  font-family: 'Playfair Display', serif;
 }
 
 h3{
-    text-align: center;
-    color:white;
-    font-size:30px;
-    font-family: 'Playfair Display', serif;
-}
-
-
-
-
-
-
-
-.carousel-inner img{
-    height:100%;
-    width:100%;
-}
-
-.carousel{
-    position:relative;
-    top:200px;
-}
-
-.workPageTitle{
-    position:relative;
-    top:100px;
-}
-
-.aboutMeTitle{
-    position:relative;
-    top:100px;
-}
-
-.aboutme{
-    position:relative;
-    top:200px;
-    color:white;
-    display:block;
-    width:90%;
-    margin:5%;
-    height:300px;
-    border:3px solid black;
-}
-
-.summary{
-    text-align:center;
-    color:blue;
-    font-size:25px;
-  width:90%;
-  height:300px;
-    background-color:#13066d;
-    display:none;
+  text-align: center;
+  color:white;
+  font-size:30px;
+  font-family: 'Playfair Display', serif;
 }
 
 .works{
-     position:relative;
-     top:300px;
+  position:relative;
+  top:300px;
 }
 
-.carousel-control-prev{
-     height:20%;
+.summary{
+  text-align:center;
+  color:lightgray;
+  font-size:25px;
+  width:90%;
+  height:500px;
+  background-color:#13066d;
+  display:none;
 }
 
-.carousel-control-next{
-     height:20%;
+.work{
+  margin:10px;
+  height:500px;
 }
 
- .work{
-      margin:10px;
-     height:300px;
+.work img{
+  width:100%;
+  height:100%;
+}
+
+.workPageTitle{
+  position:relative;
+  top:100px;
+}
+
+.carousel{
+  position:relative;
+  top:200px;
+}
+
+.carousel-inner img{
+  height:100%;
+  width:100%;
 }
 
 .button{
-    text-align:center;
-    background-color:red;
-    color:blue;
-    font-size:18px;
+  text-align:center;
+  background-color:red;
+  color:blue;
+  font-size:18px;
+}
+
+.carousel-control-prev{
+  height:20%;
+}
+
+.carousel-control-next{
+  height:20%;
+}
+
+.aboutMeTitle{
+  position:relative;
+  top:100px;
+}
+
+.aboutme{
+  position:relative;
+  top:200px;
+  color:white;
+  display:block;
+  width:90%;
+  margin:5%;
+  height:300px;
+  border:3px solid black;
+}
+
+.resumeInfo{
+  display:none
 }
 
 h5{
   font-size:32px;
   font-family:'Playfair Display', serif;
-text-align:center;
+  text-align:center;
   
 }
 
+.contactMe{
+    color:antiquewhite;
+    font-family:'Playfair Display', serif;
+}
 footer{
-    background-color:#13066d;
-    position:relative;
-    bottom:-500px;
-    text-align:center;
-}
-
-.work img{
-    width:100%;
-    height:100%;
-}
-
-.resume1{
-    display:none
-}
-.resume2{
-    display:none;
-}
-.resume3{
-    display:none;
+  background-color:#13066d;
+  position:relative;
+  bottom:-500px;
+  text-align:center;
 }
