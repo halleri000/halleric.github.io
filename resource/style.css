@@ -4,6 +4,10 @@ body{
   margin:10px;
 }
 
+.section{
+  background-color:red;
+  height:400px;
+}
 .navbar{
     background-color: gray;
 }
