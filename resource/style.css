@@ -5,6 +5,7 @@ body{
 }
 
 .first{
+  display:block;
   background-color:red;
   height:400px;
 }
