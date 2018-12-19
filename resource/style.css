@@ -106,16 +106,12 @@ h3{
 .aboutme{
   position:relative;
   top:200px;
-  color:white;
+  color:blue;
   display:block;
   width:90%;
   margin:5%;
   height:300px;
   border:3px solid black;
-}
-
-.resumeInfo{
-  display:none
 }
 
 h5{
