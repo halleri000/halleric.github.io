@@ -1,12 +1,12 @@
 
 body{
-  background-color:#009cde;
+  background-color:#05003a;
   margin:10px;
 }
 
 .first{
   display:block;
-  background-color:#9bcbeb;
+  background-color:#00176b;
   height:600px;
 }
 
@@ -28,14 +28,14 @@ body{
 
 h1{
   text-align: center;
-  color:#009cde;
+  color:antiquewhite;
   font-size:40px;
   font-family: 'Playfair Display', serif;
 }
 
 h3{
   text-align: center;
-  color:#009cde;
+  color:antiquewhite;
   font-size:30px;
   font-family: 'Playfair Display', serif;
 }
@@ -51,7 +51,7 @@ h3{
   font-size:25px;
   width:90%;
   height:20%;
-  background-color:#13066d;
+  background-color:#000f7c;
   display:none;
 }
 
