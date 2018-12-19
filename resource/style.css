@@ -19,7 +19,7 @@ body{
   color: #111;
 }
 
-.one{
+.title{
   position:relative;
   top:100px;
   margin:10px;
@@ -101,10 +101,12 @@ h3{
   font-size:32px;
   font-family: 'Playfair Display', serif;
 }
+
 .card-body{
 font-size:18px;
   font-family:'Merriweather', serif;
 }
+
 .aboutme{
   position:relative;
   top:200px;
@@ -126,6 +128,7 @@ h5{
     color:antiquewhite;
     font-family:'Playfair Display', serif;
 }
+
 footer{
   color:antiquewhite;
   background-color:#13066d;
