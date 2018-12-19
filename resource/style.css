@@ -1,17 +1,15 @@
 
 body{
-  background-color:	#060a47;
+  background-color:#009cde;
   margin:10px;
 }
 
 .first{
   display:block;
-  background-color:lightblue;
+  background-color:#9bcbeb;
   height:600px;
 }
-.navbar{
-    background-color: gray;
-}
+
 .navbar-item{
   text-align:center;
   width:25%;
@@ -22,7 +20,6 @@ body{
 }
 
 .one{
-  color:black;
   position:relative;
   top:100px;
   margin:10px;
@@ -31,14 +28,14 @@ body{
 
 h1{
   text-align: center;
-  color:white;
+  color:#009cde;
   font-size:40px;
   font-family: 'Playfair Display', serif;
 }
 
 h3{
   text-align: center;
-  color:white;
+  color:#009cde;
   font-size:30px;
   font-family: 'Playfair Display', serif;
 }
@@ -50,7 +47,7 @@ h3{
 
 .summary{
   text-align:center;
-  color:lightgray;
+  color:#bbbbbb;
   font-size:25px;
   width:90%;
   height:20%;
@@ -85,7 +82,7 @@ h3{
 
 .button{
   text-align:center;
-  background-color:red;
+  background-color:	#aaaaaa;
   color:blue;
   font-size:18px;
 }
@@ -107,7 +104,6 @@ font-size:18px;
   font-family:'Merriweather', serif;
 }
 .aboutme{
-  background-color:darkblue;
   position:relative;
   top:200px;
   color:blue;
