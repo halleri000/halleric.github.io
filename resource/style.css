@@ -98,12 +98,16 @@ h3{
   height:20%;
 }
 
-.aboutMeTitle{
-  position:relative;
-  top:100px;
+.card-header{
+  font-size:32px;
+  font-family: 'Playfair Display', serif;
 }
-
+.card-body{
+font-size:18px;
+  font-family:'Merriweather', serif;
+}
 .aboutme{
+  background-color:darkblue;
   position:relative;
   top:200px;
   color:blue;
@@ -111,7 +115,6 @@ h3{
   width:90%;
   margin:5%;
   height:300px;
-  border:3px solid black;
 }
 
 h5{
