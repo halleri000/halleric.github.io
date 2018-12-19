@@ -42,7 +42,7 @@ h3{
 
 .works{
   position:relative;
-  top:200px;
+  top:100px;
 }
 
 .summary{
@@ -50,14 +50,14 @@ h3{
   color:#bbbbbb;
   font-size:25px;
   width:90%;
-  height:20%;
+  height:100%;
   background-color:#000f7c;
   display:none;
 }
 
 .work{
   margin:10px;
-  height:20%;
+  height:300px;
 }
 
 .work img{
@@ -127,6 +127,6 @@ h5{
 footer{
   background-color:#13066d;
   position:relative;
-  bottom:-500px;
+  bottom:-400px;
   text-align:center;
 }
