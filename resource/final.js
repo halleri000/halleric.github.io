@@ -34,22 +34,6 @@ $(document).ready(function () {
           $('.workSummaryThree').hide();
      })
 
-     $('.skills').click(function() {
-          $('.resume1').show();
-          $('.resume2').hide();
-          $('.resume3').hide();
-     })
-          $('.workExperience').click(function() {
-          $('.resume1').hide();
-          $('.resume2').show();
-          $('.resume3').hide();
-     })
-          $('.education').click(function() {
-          $('.resume1').hide();
-          $('.resume2').hide();
-          $('.resume3').show();
-     })
-
 
 
 
