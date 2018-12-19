@@ -43,6 +43,7 @@ h3{
 .works{
   position:relative;
   top:100px;
+  height:30%;
 }
 
 .summary{
@@ -57,7 +58,7 @@ h3{
 
 .work{
   margin:10px;
-  height:300px;
+  height:100%;
 }
 
 .work img{
