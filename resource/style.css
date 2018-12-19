@@ -47,14 +47,14 @@ h3{
   color:lightgray;
   font-size:25px;
   width:90%;
-  height:500px;
+  height:100%;
   background-color:#13066d;
   display:none;
 }
 
 .work{
   margin:10px;
-  height:500px;
+  height:20%;
 }
 
 .work img{
