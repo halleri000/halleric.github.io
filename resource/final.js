@@ -50,11 +50,7 @@ $(document).ready(function () {
           $('.resume3').show();
      })
 
-   $('ul.navbar-nav > li').hover(function (e) {
-            e.preventDefault();
-            $('ul.navbar-nav > li').removeClass('active');
-            $(this).addClass('active');                
-        });  
+
 
 
 
