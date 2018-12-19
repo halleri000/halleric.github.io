@@ -6,8 +6,8 @@ body{
 
 .first{
   display:block;
-  background-color:red;
-  height:700px;
+  background-color:lightblue;
+  height:600px;
 }
 .navbar{
     background-color: gray;
